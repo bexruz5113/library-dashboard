@@ -1,11 +1,10 @@
 import Vue from "vue";
 import Vuex from "vuex";
+import addition from "./module/addition";
 
 Vue.use(Vuex);
 
 export default new Vuex.Store({
-  state: {},
-  mutations: {},
-  actions: {},
-  modules: {},
+  modules: { addition },
+  strict: true,
 });

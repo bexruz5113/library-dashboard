@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "sherlock bjkjk",
+      "author": "holmes1",
+      "isbn": "9845-6589-236-21",
+      "lang": "English",
+      "format": "A5",
+      "cover": "Yumshoq",
+      "price": "25000",
+      "rollOut": "2021",
+      "page": "255",
+      "id": 4
+    },
+    {
+      "title": "ikki eshik orasi",
+      "author": "temur malik",
+      "isbn": "549-55-513-5",
+      "lang": "Uzbek",
+      "format": "A5",
+      "cover": "Yumshoq",
+      "price": "35000",
+      "rollOut": "2021",
+      "page": "654",
+      "id": 5
+    }
+  ]
+}
