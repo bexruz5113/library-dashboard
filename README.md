@@ -9,16 +9,4 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+I really need to use the Json server till will be ready our API.It is just practice with CRUD(Create, Read, Update, Delete). this is not over yet.i will continue.
